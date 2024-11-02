@@ -8,7 +8,7 @@ Here, you can try-out small models, view their responses, and experiment freely.
 You can start from the provided code in main.py
 Run `python3 main.py`  in the terminal 
 
-Have fun !
+Have fun!
 
 Disclaimer:
 This environment is CPU-based and supports only small models
