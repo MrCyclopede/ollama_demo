@@ -1,17 +1,18 @@
 Welcome to Coderamp!
 
-This interactive demo is preconfigured with Ollama. 
+This environment is preconfigured with Ollama, 
+Ollama lets you easily run AI models locally
 
-Here, you can test small models, view their responses, and experiment freely. 
+Here, you can try-out small models, view their responses, and experiment freely. 
 
-Check out the starter code in main.py to get going
+You can start from the provided code in main.py
+Run `python3 main.py`  in the terminal 
 
-Have fun coding!
-
+Have fun !
 
 Disclaimer:
-- This environment is CPU-based and supports only small models
-- It's temporary and will automatically close one hour after opening
+This environment is CPU-based and supports only small models
+It's temporary and will automatically close one hour after opening
 
-Feedback is welcome! 
-We’re improving Coderamp and would love to hear from you at: romain@coderamp.io
+Your feedback is invaluable!
+Feel free to reach out at romain@coderamp.io
